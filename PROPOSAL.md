@@ -1,6 +1,5 @@
 Mini Project 1 – Website for 14780 Memorial Drive
 1. Client
-• Client: My dad
 • Owns office building at 14780 Memorial Drive
 • Currently shares information via PDF / presentation
 • Wants something more professional and accessible
