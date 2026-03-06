@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Floor plan placeholder</title>
+  <desc id="desc">Placeholder blueprint image to be replaced with accurate floor plans.</desc>
+  <rect width="1200" height="800" fill="#d9e2ec" />
+  <g stroke="#486581" stroke-width="6" fill="none" opacity="0.85">
+    <rect x="50" y="50" width="1100" height="700" />
+    <rect x="120" y="120" width="300" height="200" />
+    <rect x="450" y="120" width="280" height="260" />
+    <rect x="760" y="120" width="320" height="200" />
+    <rect x="120" y="360" width="400" height="320" />
+    <rect x="560" y="420" width="520" height="260" />
+    <line x1="120" y1="260" x2="420" y2="260" />
+    <line x1="560" y1="550" x2="1080" y2="550" />
+    <line x1="620" y1="120" x2="620" y2="380" />
+  </g>
+  <text x="600" y="390" text-anchor="middle" font-size="62" font-family="Arial, sans-serif" fill="#102a43" font-weight="700">
+    FLOORPLAN PLACEHOLDER
+  </text>
+  <text x="600" y="460" text-anchor="middle" font-size="36" font-family="Arial, sans-serif" fill="#243b53">
+    Replace with accurate Level 1 / Level 2 image
+  </text>
+</svg>
